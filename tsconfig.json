@@ -8,7 +8,7 @@
       "preserveConstEnums": true,
       "sourceMap": true,
       "declaration": true,
-      "target": "es2015",
+      "target": "es2016",
       "lib": ["es2017", "dom"],
       "outDir": "dist",
       "rootDir": "./",
