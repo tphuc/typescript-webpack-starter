@@ -2,10 +2,9 @@
   "name": "ts-webpack",
   "version": "1.0.0",
   "scripts": {
-    "serve": "webpack-dev-server --watch",
+    "serve": "webpack serve",
     "build": "webpack",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -b gh-pages"
   },
   "keywords": [],
   "author": "tphuc",
